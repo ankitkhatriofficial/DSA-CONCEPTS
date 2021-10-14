@@ -1,4 +1,4 @@
-# DSA-COCEPTS
+# DSA-CONCEPTS
 ## Repository containing all the possible methods for solving a particular problem.
 
 ## In this repository, Almost every DSA Question is having more than one approach to solve the problem. There are solutions from the brute force methods to optimal approaches.
