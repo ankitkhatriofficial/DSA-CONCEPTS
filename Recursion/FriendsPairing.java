@@ -1,3 +1,7 @@
+/**
+ * Problem Statement:
+ * https://pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/recursion-and-backtracking/friends-pairing-2-official/ojquestion
+ */
 public class FriendsPairing {
     public static void main(String[] args) {
         int N = 4;
