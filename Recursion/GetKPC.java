@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Problem Statement:
+ * https://www.geeksforgeeks.org/find-possible-words-phone-digits/
+ */
+
 public class GetKPC {
     public static void main(String[] args) {
         int[] nums = { 6, 8, 4, 8, 9, 6, 7 };

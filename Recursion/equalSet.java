@@ -1,3 +1,7 @@
+/**
+ * Problem Statement: https://leetcode.com/problems/partition-equal-subset-sum/
+ */
+
 public class equalSet {
     public static void main(String[] args) {
         int[] arr = { 10, 20, 70, 40 };
@@ -5,7 +9,9 @@ public class equalSet {
     }
 
     private static void solution01(int[] arr) {
+        // for permutation
         int total_ans = solution01Helper(arr, 0, 0, 0, "", "");
+        // for combination
         // int total_ans = solution01Helper(arr, 1, arr[0], 0, arr[0] + " + ", "");
         System.out.println("Total answer = " + total_ans);
     }

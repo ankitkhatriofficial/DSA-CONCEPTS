@@ -1,3 +1,7 @@
+/**
+ * Problem Statement: https://leetcode.com/problems/n-queens/
+ */
+
 public class nQueens {
     public static void main(String[] args) {
         int n = 6;

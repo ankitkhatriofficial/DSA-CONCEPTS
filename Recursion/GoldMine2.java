@@ -1,5 +1,10 @@
 import java.util.*;
 
+/**
+ * Problem Statement:
+ * https://pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/recursion-and-backtracking/gold-mine-2-official/ojquestion
+ */
+
 public class GoldMine2 {
     static int max = 0;
 

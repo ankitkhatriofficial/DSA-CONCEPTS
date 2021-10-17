@@ -1,5 +1,9 @@
 import java.util.Arrays;
 
+/**
+ * Problem Statement: https://leetcode.com/problems/verbal-arithmetic-puzzle/
+ */
+
 public class VerbalArithmetic {
     public static void main(String[] args) {
         // String[] words = { "LEET", "CODE" };
