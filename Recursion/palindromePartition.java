@@ -3,7 +3,7 @@
  * https://pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/recursion-and-backtracking/all-palindromic-partitions-official/ojquestion
  */
 
-public class palindromePartition {
+public class PalindromePartition {
     public static void main(String[] args) {
         String str = "pep";
         // int min = solution01(str, "");

@@ -4,7 +4,7 @@ import java.util.Arrays;
  * Problem Statement: https://www.geeksforgeeks.org/solve-crossword-puzzle/
  */
 
-public class crossWord {
+public class CrossWord {
     public static void main(String[] args) {
         char[][] board = { { '+', '-', '+', '+', '+', '+', '+', '+', '+', '+' },
                 { '+', '-', '+', '+', '+', '+', '+', '+', '+', '+' },

@@ -2,7 +2,7 @@
  * Problem Statement: https://leetcode.com/problems/partition-equal-subset-sum/
  */
 
-public class equalSet {
+public class EqualSet {
     public static void main(String[] args) {
         int[] arr = { 10, 20, 70, 40 };
         solution01(arr);
