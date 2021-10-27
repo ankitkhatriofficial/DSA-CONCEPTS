@@ -1,3 +1,4 @@
+
 /**
  * Problem Statement:
  * https://pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/recursion-and-backtracking/all-palindromic-partitions-official/ojquestion
@@ -5,7 +6,7 @@
 
 public class PalindromePartition {
     public static void main(String[] args) {
-        String str = "pep";
+        String str = "aabbc";
         // int min = solution01(str, "");
         int min = solution02(str, 0, "");
         System.out.println("minimum Partition = " + (min));
